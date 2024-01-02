@@ -36,8 +36,8 @@
 ![Screenshot 2023-11-22 090515](https://github.com/sasi1324/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/150313315/14340687-c255-4c1d-af5a-6903121515eb)
 
 
-### Name:
-### Register Number:
+### Name: SASINTHARA S
+### Register Number: 23005130
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
